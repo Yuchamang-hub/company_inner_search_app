@@ -6,7 +6,7 @@ langchain-core==0.2.43
 langchain-openai==0.1.25
 langchain-text-splitters==0.2.4
 
-chromadb==0.3.29
+chromadb>=0.4.0
 python-dotenv
 docx2txt
 PyMuPDF
